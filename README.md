@@ -12,3 +12,7 @@ Michael Benedikt, George Konstantinidis, Giansalvatore Mecca, Boris Motik, Paolo
 Benchmarking the Chase. PODS 2017: 37-52
 
 We have contacted the authors and they are in the process of attaching a license to their library. Once this is done, we will reveal the missing piece in our code as well. 
+
+# Reference
+
+Shqiponja Ahmetaj, Vasilis Efthymiou, Ronald Fagin, Phokion Kolaitis, Chuan Lei, Fatma Özcan and Lucian Popa. Ontology-Enriched Query Answering on Relational Databases. IAAI 2021
