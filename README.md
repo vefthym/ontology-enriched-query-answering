@@ -15,4 +15,4 @@ We have contacted the authors and they are in the process of attaching a license
 
 # Reference
 
-Shqiponja Ahmetaj, Vasilis Efthymiou, Ronald Fagin, Phokion Kolaitis, Chuan Lei, Fatma Özcan and Lucian Popa. Ontology-Enriched Query Answering on Relational Databases. IAAI 2021
+Shqiponja Ahmetaj, Vasilis Efthymiou, Ronald Fagin, Phokion Kolaitis, Chuan Lei, Fatma Özcan and Lucian Popa. Ontology-Enriched Query Answering on Relational Databases. IAAI 2021 [[pdf]](https://www.aaai.org/AAAI21Papers/IAAI-59.AhmetajS.pdf) [[presentation video]](https://www.csd.uoc.gr/~vefthym/videos/IAAI21-OntoEnrichedQA-presentation.mp4)
